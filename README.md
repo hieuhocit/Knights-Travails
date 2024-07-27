@@ -5,10 +5,9 @@ This project contains a JavaScript function to find the shortest path a knight c
 ## Table of Contents
 
 - [Installation](#installation)
+- [Testing](#running-tests)
 - [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## Installation
 
